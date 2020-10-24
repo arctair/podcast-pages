@@ -1,4 +1,4 @@
-module github.com/arctair/go-starter
+module github.com/arctair/podcast-pages
 
 go 1.14
 
